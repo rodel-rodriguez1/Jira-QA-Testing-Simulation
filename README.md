@@ -42,5 +42,5 @@ The goal is to gain hands-on experience with Jira’s reporting features from a 
 ---
 
 ## 🔗 Repository Link
-[Click here to view the project repository](https://github.com/YOUR_USERNAME/jira-qa-testing-simulation)
+[Click here to view the project repository](https://github.com/rodel-rodriguez1/jira-qa-testing-simulation)
 # Jira-QA-Testing-Simulation
