@@ -14,11 +14,11 @@ The goal is to gain hands-on experience with Jira’s reporting features from a 
    - **Purpose**: Shows which tasks were completed during the sprint and which were carried over to the next one.
    - **Insight**: Helps assess sprint success and backlog grooming needs.
 
-2. **Velocity Chart** (`Velocity_Chart.pdf`)
+2. **Velocity Chart** (`Sprint_Velocity.pdf`)
    - **Purpose**: Summarizes how much work was completed across multiple sprints.
    - **Insight**: Helps estimate team capacity and adjust future sprint planning.
 
-3. **Burndown Chart** (`Burndown_Chart.pdf`)
+3. **Burndown Chart (Login and Registration)** (`Sprint_Burndown_Loging and Sprint_Burndown_Registration.pdf`)
    - **Purpose**: Tracks remaining work over the sprint timeline.
    - **Insight**: Helps identify if the sprint is on track or at risk of falling behind.
 
